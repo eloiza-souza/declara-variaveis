@@ -1,4 +1,4 @@
-# M02-A02 - Declarando variáveis
+# Zup - Catalisa - M02-A02 - Declarando variáveis
 
 Crie um programa que declare variáveis para armazenar:
  * Seu nome (String).
